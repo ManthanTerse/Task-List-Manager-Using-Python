@@ -15,3 +15,6 @@ While it may seem simple, this project helped me explore and apply some importan
 🔹 Indexing – to let users update or remove tasks using task numbers
 💡 Every small experiments like this helps me move one step closer to writing real, functional code. It’s not just about learning syntax anymore — it’s about building something, no matter how small, and improving day by day.
 I'm staying consistent and motivated through these hands-on experiments — and I’m just getting started!
+
+![Screenshot 2025-04-30 213141](https://github.com/user-attachments/assets/c900f379-984c-48ed-976d-52f4730476fb)
+
