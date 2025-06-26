@@ -31,7 +31,16 @@ Welcome to Task List Manager!
 Enter your choice:
 
 
-🧑‍💻 Author :-
-Manthan Terse
-LinkedIn :- https://www.linkedin.com/in/manthanterse/ 
+## 💼 Connect with Me
+
+<a href="https://www.linkedin.com/in/manthanterse/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:tersemanthan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/manthan_terse/">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+  
 
